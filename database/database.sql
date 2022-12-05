@@ -2,7 +2,7 @@
 -- version 5.1.4
 -- https://www.phpmyadmin.net/
 --
--- Host: mysql-friber.alwaysdata.net
+-- Host: mysql-.alwaysdata.net
 -- Generation Time: Sep 05, 2022 at 07:40 AM
 -- Server version: 10.6.7-MariaDB
 -- PHP Version: 7.4.19
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `friber`
+-- Database: ``
 --
 
 -- --------------------------------------------------------

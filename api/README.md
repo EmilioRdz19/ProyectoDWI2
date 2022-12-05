@@ -323,7 +323,7 @@ Requerimientos para algunos endpoints.
 {
 	"nombre": "Nombre de la persona"
     "telefono": '4491231231',
-    "email": "robertofriber@solutionsnamzug.com"
+    "email": ""
 	"consulta": "Campo de consulta del email"
 }
 ```
@@ -340,7 +340,7 @@ Requerimientos para algunos endpoints.
 - Requiere los siguientes datos
 ```JSON 
 {
-    "email": "robertofriber@solutionsnamzug.com"
+    "email": ""
 }
 ```
 
